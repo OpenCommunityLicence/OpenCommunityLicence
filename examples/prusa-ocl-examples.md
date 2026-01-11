@@ -84,7 +84,7 @@ UpToDatePrint is a commercial business selling Prusa 3D printers to its customer
 
 **License application**
 
-UpToDatePrint correctly applies for business license; however, UpToDatePrint should also contact the creator of derived desing for commercial license.
+UpToDatePrint correctly applies for business license; however, UpToDatePrint should also contact the creator of derived design for commercial license.
 
 ---
 
@@ -92,7 +92,7 @@ UpToDatePrint correctly applies for business license; however, UpToDatePrint sho
 
 **Background**
 
-Stephen is a talented creator who likes to transform the design of Prusa 3D printers. He does not use any OCL designs for his creations and works on the printers independetly. His creations do not include any OCL components; and therefore, he publishes his creations on sharing site under CC-BY 4.0 license.
+Stephen is a talented creator who likes to transform the design of Prusa 3D printers. He does not use any OCL designs for his creations and works on the printers independently. His creations do not include any OCL components; and therefore, he publishes his creations on sharing site under CC-BY 4.0 license.
 
 **License application**
 
