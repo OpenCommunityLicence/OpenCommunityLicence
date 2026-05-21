@@ -1,37 +1,60 @@
 # Open Community License (OCL)
 
-This repository contains the Open Community License (OCL v1) - a license designed to allow open access to community including the essential right, the right-to-repair, while promoting fair competition.
+This repository contains the **Open Community License (OCL v1.1)** - a license designed to allow open access to the relevant community including the essential right, the right-to-repair, while promoting a fair competition.
 
-## License
+The authoritative license text is in [`LICENSE`](LICENSE). The summary below is for orientation only.
 
-OCL pertains to intellectual property applied in the licensor’s products and/or its components (hardware and software) which is distributed under such, including copyright, design, and patent.
+## What OCL covers
 
-All licensor’s copyrights, designs, and patents as far as relevant to products and/or its components under OCL are community open. The aim of OCL is to allow open access to the community, including the essential **right-to-repair**, by giving users complete freedom of use, copy, modification, and hacking, while promoting fair competition by securing intellectual property rights to prevent vendor locking and patent trolling.
+OCL pertains to intellectual property applied in licensor‘s product (licensed item - hardware and/or software) and/or its components which is distributed as is under OCL, including copyright, registered design or design patent, and (utility) patent.
 
-**Note:** Any part of the product and/or its component provided under a license incompatible with OCL remains unaffected by OCL.
+All licensor‘s copyrights, designs, and patents as far as relevant to products and/or its components under OCL are **COMMUNITY-OPEN**. The aim of OCL is to allow open access to relevant community including the essential **right-to-repair**, by giving users complete freedom of use, copy, modification, and hack, while promoting a fair competition by securing intellectual property rights to prevent vendor lock-in and patent trolling.
 
-### 2. As a Non-Commercial END USER
+**NOTE:** Any component provided under a license incompatible with OCL and as such included in or distributed alongside the product and/or its component remains unaffected by OCL. OCL also does not override imperative exceptions and limitations under applicable law.
 
-* **YOU MAY** use, copy, modify, and hack the product and/or its components as you wish!
+### As a non-commercial END USER
 
-* **YOU SHOULD** support the 3D printing community by sharing your creations and modifications.
+* **YOU MAY** use, copy, modify, hack the product and/or its components as you wish!
+* **YOU SHOULD** support the community by sharing your creations and modifications.
+* If you distribute your creations, modifications, or any such derivatives, **YOU MUST** do so under OCL allowing other community members to do everything that YOU MAY. This does not concern your creations and modifications that are not derived from the product and/or its components.
 
-* **YOU MUST**, if you distribute your creations, modifications, or any such derivatives, do so under OCL or any non-commercial, share-alike license allowing other community members to do everything that YOU MAY. This does not concern your creations and modifications that are not derived from the product and/or its components.
+### As a commercial BUSINESS USER
 
-### 3. As a Commercial BUSINESS USER
+* **YOU MAY** use the product and modify it to your use case solely for your internal business use (including internal production).
+* **YOU MUST NOT** copy or in any way replicate the product and/or its components and/or its derivatives for any commercial purpose excluding your internal right-to-repair without obtaining a separate business license or repair license.
 
-* **YOU MAY** use the product and modify it for your use case solely for your internal production use.
+### General provisions
 
-* **YOU MUST NOT** modify the product and/or its components for any commercial purpose other than your internal production use.
+Licensor‘s products and/or its components under OCL **MUST NOT BE** subject to any systematic or automated text and/or data mining or other text and/or data collection activity in relation to the product without explicit permission.
 
-* **YOU MUST NOT** copy or in any way replicate the product and/or its components for any commercial purpose (excluding your internal right-to-repair) without obtaining a separate business license or repair license.
+## Add-on conditions
 
-### 4. General Provisions
+OCL v1.1 allows the licensor to expand conditions of OCL distribution only by including add-on conditions defined and provided in this OCL repository.
 
-Licensor’s products and/or its components under OCL **MUST NOT** be subject to any systematic or automated text and/or data mining or other text and/or data collection activity in relation to the product without explicit permission.
+Any distribution under OCL requires clear reference to an OCL version and applicable add-on conditions and their version, for example:
 
-To promote ease of understanding of OCL, the Licensor keeps and updates a database of products and/or its components licensed under OCL and good practices.
+```
+OCL v1.1 + GAtt v1
+OCL v1.1 + SWAtt v1
+OCL v1.1 + Micro v1
+OCL v1.1 + RnD v1
+```
 
-## Good Practice Examples
+Available add-ons live in [`addons/`](addons/):
 
-For practical scenarios demonstrating how the OCL applies, please refer to the [examples](examples/) directory.
+- **[GAtt v1](addons/GAtt-v1.md)** - General Attribution: retain and represent creator identification in derivatives.
+- **[SWAtt v1](addons/SWAtt-v1.md)** - Software Attribution: like GAtt, with explicit UI and source-code visibility requirements.
+- **[Micro v1](addons/Micro-v1.md)** - Micro Business: caps free commercial use at EUR 1,000,000 annual gross revenue.
+- **[RnD v1](addons/RnD-v1.md)** - Research & Development: restricts free commercial use to R&D / prototyping only.
+
+Any allowed distribution of derivatives must retain applicable add-on conditions.
+
+See [`addons/README.md`](addons/README.md) for the rules governing add-ons and how to pick the right one.
+
+## Good practice examples
+
+For practical scenarios demonstrating how OCL applies, see the [`examples/`](examples/) directory. To promote ease of understanding of OCL, the licensor may keep and update a database of products and/or its components licensed under OCL and good practice.
+
+## Versioning
+
+This is OCL **v1.1**. Earlier versions are available via git tags (e.g. `v1`). Changes between versions are tracked in [`CHANGELOG.md`](CHANGELOG.md).
