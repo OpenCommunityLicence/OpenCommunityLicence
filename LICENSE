@@ -1,56 +1,56 @@
-Open Community License (OCL v1)
+Open Community License (OCL v1.1)
 
-OCL pertains to intellectual property applied in licensor‘s products
-and/or its components (hardware and software) which is distributed
-under such, including copyright, design, and patent.
+OCL pertains to intellectual property applied in licensor‘s product (licensed
+item - hardware and/or software) and/or its components which is distributed as
+is under OCL, including copyright, registered design or design patent, and
+(utility) patent.
 
-All licensors‘s copyrights, designs, and patents as far as relevant to
-products and/or its components under OCL are community open, as the aim
-of OCL is to allow open access to community including the essential
-right, the right-to-repair, by giving users complete freedom of use,
-copy, modification, and hack, while promoting a fair competition by
-securing intellectual property rights to prevent vendor locking and
-patent trolling.
+All licensor‘s copyrights, designs, and patents as far as relevant to products
+and/or its components under OCL are COMMUNITY-OPEN, as the aim of OCL is to
+allow open access to relevant community including the essential right, the
+right-to-repair, by giving users complete freedom of use, copy, modification,
+and hack, while promoting a fair competition by securing intellectual property
+rights to prevent vendor lock-in and patent trolling.
 
-NOTE that any part of the product and/or its component provided under a
-license incompatible with OCL remains unaffected by OCL.
+NOTE that any component provided under a license incompatible with OCL and as
+such included in or distributed alongside the product and/or its component
+remains unaffected by OCL.
 
-As an non-commercial END USER
+Also NOTE that OCL does not override imperative exceptions and limitations under
+applicable law.
 
-YOU MAY use, copy, modify, hack the product and/or its components as
-you wish!
+As a non-commercial END USER
 
-YOU SHOULD support the 3D printing community by sharing your creations
-and modifications.
+YOU MAY use, copy, modify, hack the product and/or its components as you wish!
 
-If you distribute your creations, modifications, or any such derivatives
-YOU MUST do so under OCL or any non-commercial, share-alike license
-allowing other community members to do everything that YOU MAY. This
-does not concern your creations and modifications that are not derived
+YOU SHOULD support the community by sharing your creations and modifications.
+
+If you distribute your creations, modifications, or any such derivatives YOU
+MUST do so under OCL allowing other community members to do everything that YOU
+MAY. This does not concern your creations and modifications that are not derived
 from the product and/or its components.
 
 As a commercial BUSINESS USER
 
-YOU MAY use the product and modify it to your use case solely for your
-internal production use.
+YOU MAY use the product and modify it to your use case solely for your internal
+business use (including internal production).
 
-YOU MUST NOT modify the product and/or its components for any commercial
-purpose other than your internal production use.
+YOU MUST NOT copy or in any way replicate the product and/or its components
+and/or its derivatives for any commercial purpose excluding your internal
+right-to-repair without obtaining a separate business license or repair license.
 
-YOU MUST NOT copy or in any way replicate the product and/or its
-components for any commercial purpose excluding your internal
-right-to-repair without obtaining a separate business license or
-repair license.
+Licensor‘s products and/or its components under OCL MUST NOT BE subject to any
+systematic or automated text and/or data mining or other text and/or data
+collection activity in relation to the product without explicit permission.
 
--------------------------------------------------------------------------------
+Licensor may expand conditions of OCL distribution only by including add-on
+conditions (one or more) defined and provided in OCL repository. Any
+distribution under OCL requires clear reference to an OCL version and applicable
+add-on conditions and their version. Any allowed distribution of derivatives
+must retain applicable add-on conditions.
 
-Licensor‘s products and/or its components under OCL MUST NOT BE subject
-to any systematic or automated text and/or data mining or other text
-and/or data collection activity in relation to the product without
-explicit permission.
+To promote ease of understanding of OCL licensor may keep and update a database
+of products and/or its components licensed under OCL and good practice.
 
-To promote ease of understanding of OCL Licensor keeps and updates a
-database of products and/or its components licensed under OCL and good
-practice at [link to the database].
-
-For practical examples of how this license applies, see the examples/ directory.
+For practical examples of how this license applies, see the examples/
+directory. For available add-on conditions, see the addons/ directory.
