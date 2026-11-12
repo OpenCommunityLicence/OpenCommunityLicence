@@ -2,6 +2,10 @@
 
 All notable changes to the Open Community License are tracked here.
 
+## NoSaaS v1 (add-on)
+
+- **New add-on - NoSaaS v1** (Software Specific Use, `addons/NoSaaS-v1.md`): a commercial business user must not offer the product, its functionality or its APIs to any third party as a service, including SaaS, PaaS, IaaS, managed service or network-accessible APIs. Usable with OCL v1.1, e.g. `OCL v1.1 + Micro v1 + NoSaaS v1`.
+
 ## v1.1
 
 ### License text (`LICENSE`)

@@ -38,6 +38,7 @@ OCL v1.1 + GAtt v1
 OCL v1.1 + SWAtt v1
 OCL v1.1 + Micro v1
 OCL v1.1 + RnD v1
+OCL v1.1 + NoSaaS v1
 ```
 
 Available add-ons live in [`addons/`](addons/):
@@ -46,6 +47,7 @@ Available add-ons live in [`addons/`](addons/):
 - **[SWAtt v1](addons/SWAtt-v1.md)** - Software Attribution: like GAtt, with explicit UI and source-code visibility requirements.
 - **[Micro v1](addons/Micro-v1.md)** - Micro Business: caps free commercial use at EUR 1,000,000 annual gross revenue.
 - **[RnD v1](addons/RnD-v1.md)** - Research & Development: restricts free commercial use to R&D / prototyping only.
+- **[NoSaaS v1](addons/NoSaaS-v1.md)** - Software Specific Use: forbids offering the software, its functionality or its APIs to third parties as a service.
 
 Any allowed distribution of derivatives must retain applicable add-on conditions.
 
