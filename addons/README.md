@@ -26,9 +26,11 @@ Multiple add-ons may be combined, e.g. `OCL v1.1 + SWAtt v1 + Micro v1`.
 | [Software Attribution](SWAtt-v1.md) | `SWAtt v1` | non-commercial end users | Like GAtt, but with explicit requirements for UI and source code visibility |
 | [Micro Business](Micro-v1.md) | `Micro v1` | commercial business users | Caps free commercial use at EUR 1,000,000 annual gross revenue |
 | [Research & Development](RnD-v1.md) | `RnD v1` | commercial business users | Restricts free commercial use to R&D / prototyping only - no manufacturing |
+| [Software Specific Use](NoSaaS-v1.md) | `NoSaaS v1` | commercial business users | Forbids offering the software, its functionality or its APIs to third parties as a service (SaaS, PaaS, IaaS, managed service) |
 
 ## Picking add-ons
 
 - **Attribution** - pick **one** of `GAtt` (general/hardware) or `SWAtt` (software). They serve the same purpose for different media.
 - **Business modulators** - `Micro` and `RnD` shape commercial use on different axes (size vs. activity). They can be combined if both apply.
+- **Software services** - `NoSaaS` keeps software from being offered to third parties as a service. It combines with a business modulator, e.g. `OCL v1.1 + Micro v1 + NoSaaS v1`.
 - Add-ons are orthogonal: an attribution add-on and a business modulator can coexist.
